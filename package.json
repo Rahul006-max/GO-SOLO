@@ -1,0 +1,23 @@
+{
+  "name": "go-solo-theme",
+  "displayName": "GO SOLO",
+  "description": "A pitch-black, distraction-free dark theme for deep focus coding.",
+  "version": "0.1.0",
+  "publisher": "RON5N",
+  "engines": {
+    "vscode": "^1.80.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "icon": "assets/icon.png",
+  "contributes": {
+    "themes": [
+      {
+        "label": "GO SOLO",
+        "uiTheme": "vs-dark",
+        "path": "./themes/GO SOLO-color-theme.json"
+      }
+    ]
+  }
+}
