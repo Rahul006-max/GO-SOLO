@@ -1,24 +1,32 @@
-# GO SOLO Theme
+# GO SOLO Theme 🖤
 
-A clean, focused dark theme built for deep work and late-night coding.
+GO SOLO is a pitch-black, distraction-free VS Code theme designed for deep focus, long coding sessions, and late-night work.
 
-## Features
+## ✨ Features
 
-- Minimal dark background
-- High contrast but eye-friendly colors
-- Optimized for JavaScript, Python, HTML, CSS
+- True AMOLED-black background
+- Eye-friendly high contrast colors
+- Minimal UI with zero visual noise
+- Optimized for coding
 
-## Installation
+## 📦 Installation
 
-1. Open VS Code
-2. Go to Extensions
+1. Open **VS Code**
+2. Go to **Extensions**
 3. Search for **GO SOLO Theme**
-4. Install & select from Color Theme menu
+4. Install and select it from **Preferences → Color Theme**
 
-## Screenshots
+## 🖼 Screenshots
 
-_Add screenshots here_
+![GO SOLO Theme Preview](assets/editor.png)
+![GO SOLO Theme Preview](assets/editor2.png)
+![GO SOLO Theme Preview](assets/editor3.png)
 
-## Author
+## 👤 Author
 
-RON4N
+**RON5N**
+
+## 🔗 Links
+
+[GitHub](https://github.com/rahul006-max/go-solo-theme) <br>
+[Linkedin](https://www.linkedin.com/in/rahulp-0084ba2a4/)
