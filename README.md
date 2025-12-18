@@ -28,5 +28,5 @@ GO SOLO is a pitch-black, distraction-free VS Code theme designed for deep focus
 
 ## 🔗 Links
 
-[GitHub](https://github.com/rahul006-max/go-solo-theme) <br>
+[GitHub](https://github.com/rahul006-max/GO-SOLO) <br>
 [Linkedin](https://www.linkedin.com/in/rahulp-0084ba2a4/)
