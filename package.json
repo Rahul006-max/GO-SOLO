@@ -2,7 +2,7 @@
   "name": "go-solo-theme",
   "displayName": "GO SOLO",
   "description": "A pitch-black, distraction-free dark theme for deep focus coding.",
-  "version": "0.1.0",
+  "version": "0.1.2",
   "publisher": "RON5N",
   "engines": {
     "vscode": "^1.80.0"
